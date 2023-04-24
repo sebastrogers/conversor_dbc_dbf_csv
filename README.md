@@ -1,4 +1,4 @@
-# Conversor_dbc_dbf_csv
+# Conversor de Arquivos DBC e DBF para CSV em Python
 
 Este é um código em Python que converte arquivos do tipo DBC e DBF para CSV. Ele pode ser útil em situações onde você precisa trabalhar com esses tipos de arquivos em programas que não suportam DBC ou DBF. O código é simples e fácil de entender, e pode ser facilmente adaptado para suas necessidades específicas.
 
